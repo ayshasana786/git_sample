@@ -21,5 +21,10 @@ another line edit from remote repo
 
 ==============================================line edit from remote repository
 ==============================================line edit from remote repository
+<<<<<<< HEAD
 
 =====25th line
+=======
+{{{{{{{{{{25th line edit from remote repo
+***********************************************line edit from remote repository
+>>>>>>> d4f337d3efd15b9e4733012e04989caaa19caa39
